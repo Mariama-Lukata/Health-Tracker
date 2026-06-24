@@ -3,7 +3,7 @@
   "short_name": "Health",
   "icons": [
     {
-      "src": "Health-Tracker/health-tracker-icon.png",
+      "src": "/Health-Tracker/health-tracker-icon.png",
       "sizes": "512x512",
       "type": "image/png"
     }
