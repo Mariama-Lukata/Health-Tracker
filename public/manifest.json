@@ -1,0 +1,15 @@
+{
+  "name": "Health Tracker",
+  "short_name": "Health",
+  "icons": [
+    {
+      "src": "Health-Tracker/health-tracker-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/Health-Tracker/",
+  "display": "standalone",
+  "background_color": "#f8f6f3",
+  "theme_color": "#6b8c52"
+}
